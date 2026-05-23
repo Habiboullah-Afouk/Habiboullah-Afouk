@@ -133,7 +133,7 @@
 
 <!-- SPOTIFY-WIDGET:START -->
 <p align="center">
-  <img src="./assets/placeholders/spotify.svg" alt="Spotify widget placeholder" width="520" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f5ff&bar_color_cover=false" alt="Currently playing on Spotify" width="520" />
 </p>
 <!-- SPOTIFY-WIDGET:END -->
 
@@ -151,7 +151,7 @@
 
 <!-- WAKATIME-STATS:START -->
 <p align="center">
-  <img src="./assets/placeholders/wakatime.svg" alt="WakaTime stats placeholder" width="620" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=%40a0997e41-1935-4389-85d5-11b423117805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&custom_title=WakaTime+Coding+Stats" alt="WakaTime coding stats for @a0997e41-1935-4389-85d5-11b423117805" width="620" />
 </p>
 <!-- WAKATIME-STATS:END -->
 
@@ -161,7 +161,7 @@
 
 <!-- DISCORD-PRESENCE:START -->
 <p align="center">
-  <img src="./assets/placeholders/discord.svg" alt="Discord presence placeholder" width="520" />
+  <img src="https://lanyard.cnrad.dev/api/habib_453515?theme=dark&bg=0d1117&borderRadius=8px&idleMessage=Building+in+the+neon+terminal" alt="Discord presence" width="520" />
 </p>
 <!-- DISCORD-PRESENCE:END -->
 
