@@ -133,7 +133,7 @@
 
 <!-- SPOTIFY-WIDGET:START -->
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00f5ff&bar_color_cover=false" alt="Currently playing on Spotify" width="520" />
+  <img src="./assets/placeholders/spotify.svg" alt="Spotify widget placeholder" width="520" />
 </p>
 <!-- SPOTIFY-WIDGET:END -->
 

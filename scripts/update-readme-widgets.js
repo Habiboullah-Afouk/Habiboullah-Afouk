@@ -65,7 +65,31 @@ function escapeMarkdown(value) {
     .trim();
 }
 
-function spotifyWidget() {
+async function imageUrlIsRenderable(url) {
+  try {
+    const response = await fetch(url, {
+      headers: {
+        "user-agent": "github-profile-readme-widget-updater",
+      },
+      signal: AbortSignal.timeout(15000),
+    });
+
+    const contentType = response.headers.get("content-type") || "";
+    if (!response.ok || !contentType.toLowerCase().startsWith("image/")) {
+      console.warn(
+        `Using Spotify placeholder: ${url} returned ${response.status} ${contentType || "unknown content type"}`,
+      );
+      return false;
+    }
+
+    return true;
+  } catch (error) {
+    console.warn(`Using Spotify placeholder: ${error.message}`);
+    return false;
+  }
+}
+
+async function spotifyWidget() {
   const uid = env("SPOTIFY_UID");
   if (!uid) return placeholders.spotify;
 
@@ -78,6 +102,10 @@ function spotifyWidget() {
   url.searchParams.set("interchange", "true");
   url.searchParams.set("bar_color", "00f5ff");
   url.searchParams.set("bar_color_cover", "false");
+
+  if (!(await imageUrlIsRenderable(url))) {
+    return placeholders.spotify;
+  }
 
   return `<p align="center">
   <img src="${url.toString()}" alt="Currently playing on Spotify" width="520" />
@@ -282,7 +310,7 @@ function formatDate(date) {
 async function main() {
   let readme = fs.readFileSync(README, "utf8");
 
-  readme = replaceBlock(readme, markers.spotify, spotifyWidget());
+  readme = replaceBlock(readme, markers.spotify, await spotifyWidget());
   readme = replaceBlock(readme, markers.wakatime, wakatimeStats());
   readme = replaceBlock(readme, markers.discord, discordPresence());
   readme = replaceBlock(readme, markers.leetcode, leetcodeStats());
