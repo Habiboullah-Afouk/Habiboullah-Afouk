@@ -20,24 +20,49 @@
 
 ---
 
-## Neural Stack
+## ⚡ Neural Stack
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Frontend</h3>
-      <p>HTML, CSS, JavaScript, React, Tailwind CSS</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Backend</h3>
-      <p>Laravel, PHP, Node.js, REST APIs, MySQL</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Systems</h3>
-      <p>Linux, Docker, NGINX, SSH, Cloud and DevOps basics</p>
-    </td>
-  </tr>
-</table>
+<h3 align="center">🖥️ Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+</p>
+
+<h3 align="center">⚙️ Backend & Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+</p>
+
+<h3 align="center">🗄️ Databases</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=003B57" alt="SQLite" />
+</p>
+
+<h3 align="center">📱 Mobile & Desktop</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=47848F" alt="Electron" />
+</p>
+
+<h3 align="center">🛠️ DevOps & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
+  <img src="https://img.shields.io/badge/DevOps-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Deploy-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Deploy" />
+  <img src="https://img.shields.io/badge/UML-0D1117?style=for-the-badge&logo=uml&logoColor=FABD14" alt="UML" />
+</p>
 
 ---
 
@@ -147,45 +172,6 @@
 
 ---
 
-## WakaTime Coding Stats
-
-<!-- WAKATIME-STATS:START -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=%40a0997e41-1935-4389-85d5-11b423117805&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&custom_title=WakaTime+Coding+Stats" alt="WakaTime coding stats for @a0997e41-1935-4389-85d5-11b423117805" width="620" />
-</p>
-<!-- WAKATIME-STATS:END -->
-
----
-
-## Discord Presence
-
-<!-- DISCORD-PRESENCE:START -->
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/habib_453515?theme=dark&bg=0d1117&borderRadius=8px&idleMessage=Building+in+the+neon+terminal" alt="Discord presence" width="520" />
-</p>
-<!-- DISCORD-PRESENCE:END -->
-
----
-
-## LeetCode Stats
-
-<!-- LEETCODE-STATS:START -->
-<p align="center">
-  <img src="./assets/placeholders/leetcode.svg" alt="LeetCode stats placeholder" width="520" />
-</p>
-<!-- LEETCODE-STATS:END -->
-
----
-
-## Dynamic Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<p align="center">
-  <img src="./assets/placeholders/blog.svg" alt="Blog feed placeholder" width="620" />
-</p>
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## Current Focus
 
