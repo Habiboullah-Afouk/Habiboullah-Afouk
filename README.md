@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/neon-header.svg" alt="Habiboullah Afouk cyberpunk AI profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Habiboullah%20Afouk&fontSize=58&fontAlignY=38&color=0:00F5FF,50:FF2BD6,100:FCEE0A&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%2F%2F%20Mobile%20%2F%2F%20Cloud%20%2F%2F%20AI&descSize=18&descAlignY=58" alt="Habiboullah Afouk cyberpunk AI profile banner" width="100%" />
 </p>
 
 <p align="center">
@@ -75,12 +75,12 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Habiboullah-Afouk&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2BD6&cache_seconds=21600" alt="Habiboullah Afouk GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habiboullah-Afouk&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&cache_seconds=21600" alt="Habiboullah Afouk most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Habiboullah-Afouk&theme=tokyonight" alt="Habiboullah Afouk GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Habiboullah-Afouk&theme=tokyonight" alt="Habiboullah Afouk most used languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="./metrics.classic.svg" alt="Generated GitHub metrics" width="720" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Habiboullah-Afouk&theme=tokyonight" alt="Generated GitHub metrics" width="100%" />
 </p>
 
 ---
@@ -96,7 +96,7 @@
 ## 3D Contribution Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%" />
+  <img src="https://cdn.jsdelivr.net/gh/Habiboullah-Afouk/Habiboullah-Afouk@main/profile-3d-contrib/profile-night-rainbow.svg?v=20260523" alt="3D GitHub contribution graph" width="100%" />
 </p>
 
 ---
@@ -114,15 +114,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Habiboullah-Afouk/Habiboullah-Afouk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Habiboullah-Afouk/Habiboullah-Afouk/output/github-contribution-grid-snake-dark.svg?v=20260523"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Habiboullah-Afouk/Habiboullah-Afouk/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Habiboullah-Afouk/Habiboullah-Afouk/output/github-contribution-grid-snake.svg?v=20260523"
   />
   <img
     alt="GitHub contribution grid snake animation"
-    src="https://raw.githubusercontent.com/Habiboullah-Afouk/Habiboullah-Afouk/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Habiboullah-Afouk/Habiboullah-Afouk/output/github-contribution-grid-snake.svg?v=20260523"
     width="100%"
   />
 </picture>
