@@ -144,7 +144,10 @@
 ## 3D Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Habiboullah-Afouk/Habiboullah-Afouk/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Habiboullah-Afouk/Habiboullah-Afouk/blob/main/profile-3d-contrib/profile-night-rainbow.svg?raw=true" />
+    <img src="https://github.com/Habiboullah-Afouk/Habiboullah-Afouk/blob/main/profile-3d-contrib/profile-night-rainbow.svg?raw=true" alt="3D GitHub contribution graph" width="100%" />
+  </picture>
 </p>
 
 ---
@@ -182,7 +185,7 @@
 <!-- SPOTIFY-WIDGET:START -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Currently playing on Spotify" width="520" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00f5ff&bar_color_cover=false" alt="Currently playing on Spotify" width="520" />
   </a>
 </p>
 <!-- SPOTIFY-WIDGET:END -->
