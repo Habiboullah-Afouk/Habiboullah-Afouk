@@ -202,23 +202,6 @@
 
 ---
 
-## Widget Configuration
-
-The generated widgets above update through `.github/workflows/readme-widgets.yml`.
-Set these repository variables in GitHub, then run the workflow manually:
-
-| Variable | Used for |
-| --- | --- |
-| `SPOTIFY_UID` | Spotify profile widget |
-| `WAKATIME_USERNAME` | WakaTime coding stats |
-| `DISCORD_USER_ID` | Discord presence card |
-| `LEETCODE_USERNAME` | LeetCode stats card |
-| `BLOG_FEED_URLS` | Dynamic blog posts, comma-separated RSS or Atom feeds |
-
-For richer private GitHub analytics, add a `METRICS_TOKEN` repository secret. Without it, the metrics workflow uses the built-in `GITHUB_TOKEN` and public profile data.
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:FF2BD6,100:FCEE0A" alt="Cyberpunk footer wave" width="100%" />
 </p>
