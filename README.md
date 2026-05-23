@@ -114,15 +114,15 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./assets/snake/github-contribution-grid-snake-dark.svg"
+    srcset="https://cdn.jsdelivr.net/gh/Habiboullah-Afouk/Habiboullah-Afouk@main/assets/snake/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./assets/snake/github-contribution-grid-snake.svg"
+    srcset="https://cdn.jsdelivr.net/gh/Habiboullah-Afouk/Habiboullah-Afouk@main/assets/snake/github-contribution-grid-snake.svg"
   />
   <img
     alt="GitHub contribution grid snake animation"
-    src="./assets/snake/github-contribution-grid-snake.svg"
+    src="https://cdn.jsdelivr.net/gh/Habiboullah-Afouk/Habiboullah-Afouk@main/assets/snake/github-contribution-grid-snake.svg"
     width="100%"
   />
 </picture>
