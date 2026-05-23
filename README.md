@@ -182,9 +182,15 @@
 <!-- SPOTIFY-WIDGET:START -->
 <p align="center">
   <a href="https://open.spotify.com/user/gi1knmaf9kqjufqfft3y3ouwl">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00f5ff&bar_color_cover=false" alt="Currently playing on Spotify" width="520" />
+    <img src="https://img.shields.io/badge/Spotify-Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=1DB954&labelColor=0D1117&color=0D1117" alt="Spotify" />
   </a>
 </p>
+<!-- To enable live "Now Playing" widget:
+     1. Go to https://spotify-github-profile.kittinanx.com
+     2. Log in with your Spotify account to authorize the app
+     3. Replace the badge above with:
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00f5ff&bar_color_cover=false" alt="Currently playing on Spotify" width="520" />
+-->
 <!-- SPOTIFY-WIDGET:END -->
 
 ---
