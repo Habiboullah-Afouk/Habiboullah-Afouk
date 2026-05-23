@@ -1,6 +1,29 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Habiboullah%20Afouk&fontSize=58&fontAlignY=38&color=0:00F5FF,50:FF2BD6,100:FCEE0A&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%2F%2F%20Mobile%20%2F%2F%20Cloud%20%2F%2F%20AI&descSize=18&descAlignY=58" alt="Habiboullah Afouk cyberpunk AI profile banner" width="100%" />
 </p>
+<p align="center">
+  <a href="https://habib-portofolio-livid.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-00F5FF?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://gitlab.com/black-american-dev">
+    <img src="https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
+  </a>
+  <a href="https://x.com/H_Afouk">
+    <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.instagram.com/7__habib">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/habiboullah-afouk-209a433b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.link/a081tc">
+    <img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Habiboullah-Afouk">
@@ -154,11 +177,13 @@
 
 ---
 
-## Spotify Widget
+## 🎧 Now Playing
 
 <!-- SPOTIFY-WIDGET:START -->
 <p align="center">
-  <img src="./assets/placeholders/spotify.svg" alt="Spotify widget placeholder" width="520" />
+  <a href="https://open.spotify.com/user/gi1knmaf9kqjufqfft3y3ouwl">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00f5ff&bar_color_cover=false" alt="Currently playing on Spotify" width="520" />
+  </a>
 </p>
 <!-- SPOTIFY-WIDGET:END -->
 
