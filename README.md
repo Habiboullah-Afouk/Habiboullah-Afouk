@@ -141,16 +141,6 @@
 
 ---
 
-## 3D Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Habiboullah-Afouk/Habiboullah-Afouk/blob/main/profile-3d-contrib/profile-night-rainbow.svg?raw=true" />
-    <img src="https://github.com/Habiboullah-Afouk/Habiboullah-Afouk/blob/main/profile-3d-contrib/profile-night-rainbow.svg?raw=true" alt="3D GitHub contribution graph" width="100%" />
-  </picture>
-</p>
-
----
 
 ## Contribution Graph
 
@@ -185,7 +175,7 @@
 <!-- SPOTIFY-WIDGET:START -->
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=00f5ff&bar_color_cover=false" alt="Currently playing on Spotify" width="520" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gi1knmaf9kqjufqfft3y3ouwl&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
   </a>
 </p>
 <!-- SPOTIFY-WIDGET:END -->
