@@ -1,0 +1,27 @@
+<svg width="960" height="360" viewBox="0 0 960 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics placeholder</title>
+  <desc id="desc">The Metrics workflow replaces this placeholder with generated GitHub analytics.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="960" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5FF"/>
+      <stop offset="0.5" stop-color="#FF2BD6"/>
+      <stop offset="1" stop-color="#FCEE0A"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#00F5FF" stroke-opacity="0.12"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="960" height="360" rx="8" fill="#0D1117"/>
+  <rect width="960" height="360" fill="url(#grid)"/>
+  <rect x="3" y="3" width="954" height="354" rx="7" stroke="url(#border)" stroke-width="3" filter="url(#glow)"/>
+  <text x="480" y="150" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="800" fill="#E6EDF3">GitHub Metrics Coming Online</text>
+  <text x="480" y="198" text-anchor="middle" font-family="Consolas, Cascadia Code, monospace" font-size="18" fill="#9BEFFD">The Metrics workflow will replace this SVG after it runs.</text>
+  <text x="480" y="236" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="16" fill="#8B949E">Run it manually or push to main to refresh analytics.</text>
+</svg>

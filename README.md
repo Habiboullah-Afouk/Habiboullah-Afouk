@@ -1,120 +1,220 @@
 <p align="center">
-- Expo
-- Laravel
-- MySQL
+  <img src="./assets/neon-header.svg" alt="Habiboullah Afouk cyberpunk AI profile banner" width="100%" />
+</p>
 
-</td>
-</tr>
+<p align="center">
+  <a href="https://github.com/Habiboullah-Afouk">
+    <img src="https://komarev.com/ghpvc/?username=Habiboullah-Afouk&label=Neural%20Visits&color=00F5FF&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/Habiboullah-Afouk?tab=followers">
+    <img src="https://img.shields.io/github/followers/Habiboullah-Afouk?label=Followers&logo=github&style=for-the-badge&color=FF2BD6&labelColor=0D1117" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Habiboullah-Afouk?tab=repositories">
+    <img src="https://img.shields.io/badge/Stack-Full--Stack%20%7C%20Mobile%20%7C%20Cloud-00F5FF?style=for-the-badge&labelColor=0D1117" alt="Full-stack, mobile, and cloud stack" />
+  </a>
+</p>
 
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2600&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-stack+developer+building+real-world+apps;Mobile+experiences+with+clean+product+logic;Cloud%2C+DevOps%2C+and+AI-powered+interfaces;Cyberpunk+systems%2C+neon+UX%2C+human+focus" alt="Typing animation" />
+</p>
 
-## 🎮 Number Game
+---
 
-Interactive number guessing game with clean UI and game logic.
+## Neural Stack
 
-### ⚡ Tech Stack
-- JavaScript
-- HTML
-- CSS
-
-</td>
-
-<td width="50%">
-
-## ☁️ Homelab Project
-
-Personal homelab for hosting applications, cloud storage, and self-hosted services.
-
-### ⚡ Tech Stack
-- Linux
-- Docker
-- SSH
-- NGINX
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Frontend</h3>
+      <p>HTML, CSS, JavaScript, React, Tailwind CSS</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Backend</h3>
+      <p>Laravel, PHP, Node.js, REST APIs, MySQL</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Systems</h3>
+      <p>Linux, Docker, NGINX, SSH, Cloud and DevOps basics</p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-# 📊 GitHub Analytics
+## Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Full-stack App Lab</h3>
+      <p>Real-world web apps with backend logic, clean interfaces, and database-driven workflows.</p>
+      <p><strong>Tech:</strong> Laravel, MySQL, JavaScript, CSS</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mobile Builds</h3>
+      <p>Mobile-first experiments focused on practical flows, readable code, and fast iteration.</p>
+      <p><strong>Tech:</strong> Expo, React Native, APIs</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Number Game</h3>
+      <p>Interactive number guessing game with clean UI states and straightforward game logic.</p>
+      <p><strong>Tech:</strong> JavaScript, HTML, CSS</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Homelab Project</h3>
+      <p>Personal homelab for hosting apps, cloud storage, and self-hosted services.</p>
+      <p><strong>Tech:</strong> Linux, Docker, SSH, NGINX</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Habiboullah-Afouk&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Habiboullah-Afouk&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&icon_color=FF2BD6&cache_seconds=21600" alt="Habiboullah Afouk GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habiboullah-Afouk&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=E6EDF3&cache_seconds=21600" alt="Habiboullah Afouk most used languages" />
+</p>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habiboullah-Afouk&layout=compact&theme=tokyonight&hide_border=true"/>
+<p align="center">
+  <img src="./metrics.classic.svg" alt="Generated GitHub metrics" width="720" />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Habiboullah-Afouk&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Habiboullah-Afouk&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF2BD6&fire=FCEE0A&currStreakLabel=00F5FF" alt="GitHub streak stats" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 3D Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Habiboullah-Afouk&theme=tokyo-night&hide_border=true"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%" />
 </p>
 
 ---
 
+## Contribution Graph
 
-# 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Habiboullah-Afouk&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F5FF&line=FF2BD6&point=FCEE0A&area=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+## Contribution Snake
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Habiboullah-Afouk/Habiboullah-Afouk/output/github-contribution-grid-snake-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/Habiboullah-Afouk/Habiboullah-Afouk/output/github-contribution-grid-snake.svg"
   />
-
   <img
-    alt="github contribution grid snake animation"
+    alt="GitHub contribution grid snake animation"
     src="https://raw.githubusercontent.com/Habiboullah-Afouk/Habiboullah-Afouk/output/github-contribution-grid-snake.svg"
+    width="100%"
   />
 </picture>
 
+---
 
+## Spotify Widget
+
+<!-- SPOTIFY-WIDGET:START -->
+<p align="center">
+  <img src="./assets/placeholders/spotify.svg" alt="Spotify widget placeholder" width="520" />
+</p>
+<!-- SPOTIFY-WIDGET:END -->
 
 ---
 
-# 🎯 Current Focus
+## Anime GIF Section
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif" alt="Anime-style coding GIF" width="420" />
+</p>
+
+---
+
+## WakaTime Coding Stats
+
+<!-- WAKATIME-STATS:START -->
+<p align="center">
+  <img src="./assets/placeholders/wakatime.svg" alt="WakaTime stats placeholder" width="620" />
+</p>
+<!-- WAKATIME-STATS:END -->
+
+---
+
+## Discord Presence
+
+<!-- DISCORD-PRESENCE:START -->
+<p align="center">
+  <img src="./assets/placeholders/discord.svg" alt="Discord presence placeholder" width="520" />
+</p>
+<!-- DISCORD-PRESENCE:END -->
+
+---
+
+## LeetCode Stats
+
+<!-- LEETCODE-STATS:START -->
+<p align="center">
+  <img src="./assets/placeholders/leetcode.svg" alt="LeetCode stats placeholder" width="520" />
+</p>
+<!-- LEETCODE-STATS:END -->
+
+---
+
+## Dynamic Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<p align="center">
+  <img src="./assets/placeholders/blog.svg" alt="Blog feed placeholder" width="620" />
+</p>
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## Current Focus
 
 ```txt
-⚡ Building Full-Stack Applications
-📱 Developing Mobile Apps
-☁️ Learning Cloud & DevOps
-🚀 Creating Real-World Projects
+> Building full-stack applications
+> Developing mobile apps
+> Learning cloud and DevOps
+> Creating AI-themed interfaces with cyberpunk energy
 ```
 
 ---
 
-# 💡 Developer Quote
+## Widget Configuration
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
+The generated widgets above update through `.github/workflows/readme-widgets.yml`.
+Set these repository variables in GitHub, then run the workflow manually:
+
+| Variable | Used for |
+| --- | --- |
+| `SPOTIFY_UID` | Spotify profile widget |
+| `WAKATIME_USERNAME` | WakaTime coding stats |
+| `DISCORD_USER_ID` | Discord presence card |
+| `LEETCODE_USERNAME` | LeetCode stats card |
+| `BLOG_FEED_URLS` | Dynamic blog posts, comma-separated RSS or Atom feeds |
+
+For richer private GitHub analytics, add a `METRICS_TOKEN` repository secret. Without it, the metrics workflow uses the built-in `GITHUB_TOKEN` and public profile data.
 
 ---
 
-# 👀 Profile Views
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Habiboullah-Afouk&label=Profile%20Views&color=6C63FF&style=flat" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6C63FF,50:3B82F6,100:00C2FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,50:FF2BD6,100:FCEE0A" alt="Cyberpunk footer wave" width="100%" />
 </p>

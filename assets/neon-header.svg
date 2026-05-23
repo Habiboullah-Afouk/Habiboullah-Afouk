@@ -1,0 +1,48 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Habiboullah Afouk cyberpunk AI profile banner</title>
+  <desc id="desc">A neon cyberpunk profile banner with AI circuitry and grid lines.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#070A13"/>
+      <stop offset="0.48" stop-color="#10172A"/>
+      <stop offset="1" stop-color="#18051F"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="132" y1="68" x2="1066" y2="276" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00F5FF"/>
+      <stop offset="0.5" stop-color="#FF2BD6"/>
+      <stop offset="1" stop-color="#FCEE0A"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#00F5FF" stroke-opacity="0.16" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="0" fill="url(#sky)"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <path d="M0 294C169 242 301 246 457 282C622 320 776 321 941 268C1049 234 1130 229 1200 236V360H0V294Z" fill="#050816" fill-opacity="0.88"/>
+  <path d="M55 286H1145" stroke="url(#neon)" stroke-width="2" stroke-opacity="0.85"/>
+  <path d="M122 306H1078" stroke="#FF2BD6" stroke-width="1" stroke-opacity="0.45"/>
+  <g filter="url(#glow)">
+    <path d="M186 103H1014L1064 180L1014 257H186L136 180L186 103Z" fill="#050816" fill-opacity="0.7" stroke="url(#neon)" stroke-width="3"/>
+    <path d="M216 132H984L1014 180L984 228H216L186 180L216 132Z" stroke="#00F5FF" stroke-opacity="0.35" stroke-width="1.5"/>
+  </g>
+  <g opacity="0.82">
+    <circle cx="248" cy="180" r="42" stroke="#00F5FF" stroke-width="2"/>
+    <circle cx="248" cy="180" r="13" fill="#00F5FF" fill-opacity="0.16" stroke="#00F5FF" stroke-width="2"/>
+    <path d="M248 138V112M248 248V222M206 180H180M316 180H290M219 151L199 131M297 209L317 229M219 209L199 229M297 151L317 131" stroke="#00F5FF" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <g opacity="0.82">
+    <circle cx="952" cy="180" r="42" stroke="#FF2BD6" stroke-width="2"/>
+    <circle cx="952" cy="180" r="13" fill="#FF2BD6" fill-opacity="0.16" stroke="#FF2BD6" stroke-width="2"/>
+    <path d="M952 138V112M952 248V222M910 180H884M1020 180H994M923 151L903 131M1001 209L1021 229M923 209L903 229M1001 151L1021 131" stroke="#FF2BD6" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  <text x="600" y="160" text-anchor="middle" font-family="Orbitron, Rajdhani, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800" letter-spacing="4" fill="#E6EDF3">HABIBOULLAH AFOUK</text>
+  <text x="600" y="207" text-anchor="middle" font-family="Rajdhani, Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="3" fill="url(#neon)">FULL-STACK DEV // MOBILE // CLOUD // AI</text>
+  <text x="600" y="247" text-anchor="middle" font-family="Consolas, Cascadia Code, monospace" font-size="16" fill="#9BEFFD">BUILDING PRACTICAL SYSTEMS IN A NEON TERMINAL</text>
+</svg>

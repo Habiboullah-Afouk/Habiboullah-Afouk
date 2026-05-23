@@ -1,0 +1,24 @@
+<svg width="620" height="190" viewBox="0 0 620 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">WakaTime stats setup placeholder</title>
+  <desc id="desc">Set WAKATIME_USERNAME as a GitHub repository variable to render coding stats.</desc>
+  <defs>
+    <linearGradient id="border" x1="0" y1="0" x2="620" y2="190" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F5FF"/>
+      <stop offset="0.55" stop-color="#FF2BD6"/>
+      <stop offset="1" stop-color="#FCEE0A"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="620" height="190" rx="8" fill="#0D1117"/>
+  <rect x="2" y="2" width="616" height="186" rx="7" stroke="url(#border)" stroke-width="3" filter="url(#glow)"/>
+  <path d="M67 119L92 68L117 119M78 98H106" stroke="#00F5FF" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="165" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" fill="#E6EDF3">WakaTime Coding Stats</text>
+  <text x="165" y="112" font-family="Consolas, Cascadia Code, monospace" font-size="17" fill="#9BEFFD">Waiting for repository variable: WAKATIME_USERNAME</text>
+  <text x="165" y="143" font-family="Segoe UI, Arial, sans-serif" font-size="15" fill="#8B949E">The README updater will swap this for the live stats card.</text>
+</svg>
