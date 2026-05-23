@@ -121,7 +121,7 @@
 ## 3D Contribution Graph
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Habiboullah-Afouk/Habiboullah-Afouk@main/profile-3d-contrib/profile-night-rainbow.svg?v=20260523" alt="3D GitHub contribution graph" width="100%" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%" />
 </p>
 
 ---
